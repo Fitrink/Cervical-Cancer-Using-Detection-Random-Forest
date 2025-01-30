@@ -6,6 +6,7 @@ This project aims to detect cervical cancer based on various risk factors using 
 
 ## 📊 Dataset
 File dataset --> case-2.csv
+
 The dataset contains medical history and risk factors related to cervical cancer. Each row represents a patient, with multiple features indicating their behaviors, perceptions, motivations, social support, and empowerment levels.
 
 ---
